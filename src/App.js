@@ -1,4 +1,4 @@
-import NavigatorPreLogin from "./component/Navigator";
+
 
 
 function App() {
@@ -6,7 +6,8 @@ function App() {
     <div className="App">
       
     {/* <NavigatorPreLogin /> */}
-    <p style={{alignContent:'center', display:'flex', justifyContent:'center'}}>Hello this is demo web still under developement</p>
+    <p style={{alignContent:'center', display:'flex', justifyContent:'center'}}>
+      Hello this is demo web still under developement</p>
 
     </div>
   );
